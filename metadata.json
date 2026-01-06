@@ -1,0 +1,8 @@
+{
+  "name": "VLC Mobile Clone",
+  "description": "A high-fidelity mobile media player clone inspired by VLC, featuring video/audio playback, AI-powered content summaries, and a sleek modern UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
